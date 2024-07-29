@@ -37,7 +37,7 @@ $ npm install hexo-cli -g
 ## 查看 Hexo 版本
 
 安裝完成，輸入<mark style="background-color:#e7e9eb;color:#ff0000; "> hexo -v </mark>查看 Hexo 版本，確認是否安裝成功。
-<image style="margin:0;" src="https://picsum.photos/150/300" alt="hexo-version">
+<image style="margin:0;" src="https://firebasestorage.googleapis.com/v0/b/leoli-blog.appspot.com/o/hexo-version.jpg?alt=media&token=6a859fa1-0879-42fe-8911-8a5d48214dad" alt="hexo-version" width="300">
 
 ## 初始化 Hexo
 
@@ -125,7 +125,7 @@ http：//localhost:4000/about/index.html
 **Step 2.** 點選右上『＋』，新增 New repository(專案）
 
 **Step 3.** 將專案名稱命名設定
-<image style="margin:0;" src="https://picsum.photos/600/350" alt="github-repository">
+<image style="margin:0;" src="https://firebasestorage.googleapis.com/v0/b/leoli-blog.appspot.com/o/git-repository.jpg?alt=media&token=e649a51d-0dd4-43dd-b92f-0cb020065cb7" alt="github-repository" width="600">
 獲得該空間的網址: <lable style="color:#ff0000;">https：//github.com/username/空間專案名稱</lable>
 
 ## 專案一鍵部屬
@@ -162,7 +162,7 @@ $ hexo deploy
 
 **Step 4.** 設置 GitHub Pages
 至 GitHub 空間上 > Settings > 左側 Pages > 設定 Branch
-<image style="margin:0;" src="https://picsum.photos/150/300" alt="github-pages">
+<image style="margin:0;" src="https://firebasestorage.googleapis.com/v0/b/leoli-blog.appspot.com/o/github-pages.jpg?alt=media&token=64219565-2700-428a-a8e5-a1425a78c86a" alt="github-pages" width="100%">
 
 預設畫面：
-<image style="margin:0;" src="https://picsum.photos/800/600" alt="blog">
+<image style="margin:0;" src="https://firebasestorage.googleapis.com/v0/b/leoli-blog.appspot.com/o/blog.jpg?alt=media&token=b66b596d-033b-4e40-a36d-534b467640dc" alt="blog" width="100%">
